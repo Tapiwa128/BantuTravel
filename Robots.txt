@@ -1,0 +1,9 @@
+User-agent:*
+Disallow:/css
+Disallow:/img
+Disallow:/scss
+Disallow:/mail
+Disallow:/js
+Disallow:/lib
+Disallow:/.pdf
+Disallow:/.jpg
